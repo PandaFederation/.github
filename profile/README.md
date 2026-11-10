@@ -2,13 +2,13 @@
 
 Self-healing, local-first AI systems and data tools that run themselves.
 
-**Official site:** [pandafederation.github.io](https://pandafederation.github.io/)
+**Official site:** [pandafederation.com](https://pandafederation.com/)
 
 The catalog covers MCP servers, public-data Apify tools, local-first apps, services, and books when they publish. Contact is [GitHub](https://github.com/PandaFederation) and [X @Pandadad0214](https://x.com/Pandadad0214) only.
 
 ## Official website
 
-- Site: [https://pandafederation.github.io/](https://pandafederation.github.io/)
+- Site: [https://pandafederation.com/](https://pandafederation.com/)
 - Source: [PandaFederation/pandafederation.github.io](https://github.com/PandaFederation/pandafederation.github.io)
 
 ## Main repositories
