@@ -4,7 +4,7 @@ Self-healing, local-first AI systems and data tools that run themselves.
 
 **Official site:** [pandafederation.com](https://pandafederation.com/)
 
-The catalog covers MCP servers, public-data Apify tools, local-first apps, services, and books when they publish. Contact is [GitHub](https://github.com/PandaFederation) and [X @Pandadad0214](https://x.com/Pandadad0214) only.
+The catalog covers MCP servers, public-data Apify tools, local-first apps, services, and books when they publish. Contact is [GitHub](https://github.com/PandaFederation) and X only. Follow on X: [@PandaFedHQ](https://x.com/PandaFedHQ).
 
 ## Official website
 
