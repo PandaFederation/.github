@@ -40,3 +40,5 @@ These modules still live under [@pandadad0214](https://github.com/pandadad0214) 
 - [Fiverr](https://www.fiverr.com/pandafederation)
 - [Upwork](https://www.upwork.com/freelancers/~010efd521970a9d3e1)
 - [dev.to](https://dev.to/pandadad0214)
+
+**Listed on:** [![Approved on SaaSHub](https://cdn-b.saashub.com/img/badges/approved-color.png?v=1)](https://www.saashub.com/panda-federation-tools?utm_source=badge&utm_campaign=badge&utm_content=panda-federation-tools&badge_variant=color&badge_kind=approved)
